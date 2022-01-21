@@ -4,6 +4,7 @@ This is a token gen that was made in an hour and just generates unverified token
 Usage:
 in cmd just do pip install httpx and pip install colorama,
 Get a captcha key at https://2captcha.com put funds in it, then in the file at the top put your captcha key,
+Put the names you want in names.txt,
 then run the Gen.py and you are good
 
 Something:
